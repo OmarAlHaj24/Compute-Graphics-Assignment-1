@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650026874 source:c:\testproject\testproject\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
